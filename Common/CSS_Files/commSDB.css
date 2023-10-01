@@ -1,0 +1,54 @@
+         
+      div.sdbar   /*Sidebar starts here*/
+        {
+          width: 285px;
+          height: 1500px;
+          background-color: #000000;
+          float:left;
+          overflow-x: hidden;
+          overflow-y: scroll;
+        }
+         
+      div.sdbarcon
+        {
+          
+          background-color: #000000;
+          float: left;
+        }
+                   
+      div.imgcard
+        {
+          width: 250px;
+          height: 350px
+          background-color: white;
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+          margin-bottom: 15px;
+          margin-right: 10px;
+          margin-left: 10px;
+          margin-top: 10px;
+          opacity: 1.0;
+        }
+         
+      div.imgcard:hover
+        {
+          opacity: 0.75;
+        }
+         
+      div.imgcard a.active
+        {
+          text-decoration: none;
+        }
+         
+      div.imgcard a.inactive
+        {
+          opacity: 0.75;
+          box-shadow 0 0 2px 1px rgba(0, 140, 186, 0.5);
+          text-decoration: none;
+        }
+         
+      div.imgcardbox
+        {
+          text-align: center;
+          padding: 5px 10px;
+          background-color: white;
+        }

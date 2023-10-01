@@ -1,0 +1,50 @@
+         
+           
+      .msd  /*Mainside starts here*/
+        {
+          width: 1215px;
+          height: 1500px;
+          background-color: powderblue;
+          float: left;
+        }
+              
+      div.msdcon
+        {
+          margin: 5px;
+        }
+              
+      div.infotableright
+        {
+          width: 250px;
+          float: right;
+          margin-right: 50px;
+          margin-top: 50px;
+          margin-bottom: 50px;
+          background-color: #d1d591;
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        }
+              
+      div.syno
+        {
+          width: 800px;
+          margin: 0 auto;
+          float: left;
+          margin-right: 50px;
+          margin-left: 50px;
+        }
+              
+      p.msdcontxt
+        {
+          text-align: justify;
+        }
+                   
+      div.imgcardmsdcon
+        {
+          width: 270px;
+          height: 350px
+          background-color: white;
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+          margin-bottom: 15px;
+          margin-top: 10px;
+          opacity: 1.0;
+        }

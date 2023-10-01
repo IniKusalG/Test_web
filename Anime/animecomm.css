@@ -1,0 +1,39 @@
+    
+      .msd  /*Mainside starts here*/
+        {
+          width: 1215px;
+          height: 1500px;
+          background-color: #000000;
+          float: left;
+          color: #ffffff;
+        }
+              
+      div.msdcon
+        {
+          margin: 5px;
+        }
+              
+      p.msdcontxt
+        {
+          text-align: justify;
+        }
+              
+      div.syno
+        {
+          width: 1000px;
+          margin: 0 auto;
+        }
+              
+      div.vidbox
+        {
+          width: 700px;
+          height: 400px;
+          margin: 0 auto;
+          border: 3px solid green;
+        }
+              
+      div.info
+        {
+          width: 1000px;
+          margin: 0 auto;
+        }
